@@ -2,7 +2,7 @@
   "name": "rx-socket-subject",
   "version": "0.7.0",
   "description": "A more full-featured wrapper for web sockets using RxJS and RxJS-DOM",
-  "main": "index.js",
+  "main": "dist/rx-socket-subject.js",
   "scripts": {
     "test": "testem ci -R dot",
     "build": "ember build",
